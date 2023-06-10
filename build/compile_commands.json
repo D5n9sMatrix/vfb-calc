@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-calc/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-calc.dir/vfb-calc.cpp.o -c /home/denis/vfb-net/vfb-calc/vfb-calc.cpp",
+  "file": "/home/denis/vfb-net/vfb-calc/vfb-calc.cpp"
+}
+]
